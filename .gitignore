@@ -1,0 +1,8 @@
+.vscode/settings.json
+workspace.code-workspace
+__pycache__/
+.qt_for_python/uic/addexpense.py
+tests\__pycache__
+__pycache__
+.qt_for_python
+tests/__pycache__/
